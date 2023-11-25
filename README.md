@@ -22,6 +22,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [Boilerplates](#boilerplates)
 
+- [Extensions](#extensions)
+
 - [Tools](#tools)
 
 - [Videos](#videos)
@@ -42,11 +44,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [Simon](https://github.com/m00ke5h/Simon) - Simon game built using NeutralinoJs
 
-- [Pomodoro Timer](https://github.com/FernanEd/neu-pomodoro) - Pomodoro Timer built using NeutralinoJs
-
 - [Minesweeper](https://github.com/ali-shahhoud/Minesweeper) - Minesweeper game built using NeutralinoJs
-
-- [Task App](https://github.com/DEVLOPRR/taskapp) - A Simple application for noting your Tasks, or Notes
 
 - [Drums](https://github.com/m00ke5h/Drums) - A Neutralino app for playing drums
 
@@ -61,8 +59,6 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [Why we built Neutralinojs framework?](https://medium.com/neutralinojs/why-we-built-neutralinojs-framework-part-i-1d6c667951d5)
 
 - [The Next Best Alternative to Electron & Tauri](https://blog.notesnook.com/neutralinojs-next-best-alternative-to-electron-and-tauri/)
-
-- [How to Develop Neutralinojs Apps](https://factsoverflow.com/how-to-develop-neutralinojs-apps/)
 
 - [What is Neutralinojs? Alternative to Electron](https://dev.to/byteslash/what-is-neutralinojs-alternative-to-electron-5fjc)
 
@@ -105,6 +101,12 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [neutralino-custom-titlebar](https://github.com/DEVLOPRR/NeutralinoJs-Custom-Titlebar) - NeutralinoJS Boilerplate With Custom TitleBar
 
 - [vite-neutralinojs-template](https://github.com/yooneskh/vite-neutralinojs-template) - Starter template for Neutralino.js with Vite.js and Vue.js
+
+## Extensions
+
+- [neutralino-ext-bun](https://github.com/hschneider/neutralino-ext-bun) - A Bun-Extension. Bun is a blazingly fast and almost completely NodeJS-compatible JS Runtime. Easy to embed into your Neutralino App.
+
+- [neutralino-ext-python](https://github.com/hschneider/neutralino-ext-python) - A low-code Python-Extension.
 
 ## Tools
 
