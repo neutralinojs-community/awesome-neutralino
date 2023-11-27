@@ -112,6 +112,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 ### For Neutralino
 
+- [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Neutralino Build-Automation for macOS and Windows AppBundles. macOS Apps can be signed and notarized.
+
 - [Create Neutralino App](https://github.com/DEVLOPRR/Create-Neutralino-App) - Set up a NeutralinoJS App by running one command
 
 - [AppImage Bundler](https://github.com/krypt0nn/neutralino-appimage-bundler) - Bundle your Neutralino project in AppImage
