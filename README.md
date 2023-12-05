@@ -106,7 +106,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-ext-bun](https://github.com/hschneider/neutralino-ext-bun) - A Bun-Extension. Bun is a blazingly fast and almost completely NodeJS-compatible JS Runtime. Easy to embed into your Neutralino App.
 
-- [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS Exentsion for NeutralinoJS.
+- [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS Exentsion for NeutralinoJS. Node can be emebedded with all dependencies right into your Nutralino App.
 
 - [neutralino-ext-python](https://github.com/hschneider/neutralino-ext-python) - A low-code Python-Extension for NeutralinoJS. This turns Neutralino into a reactive Python GUI.
 
