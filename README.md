@@ -106,13 +106,15 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-ext-bun](https://github.com/hschneider/neutralino-ext-bun) - A Bun-Extension. Bun is a blazingly fast and almost completely NodeJS-compatible JS Runtime. Easy to embed into your Neutralino App.
 
-- [neutralino-ext-python](https://github.com/hschneider/neutralino-ext-python) - A low-code Python-Extension.
+- [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS Exentsion for NeutralinoJS. Node can be emebedded with all dependencies right into your Nutralino App.
+
+- [neutralino-ext-python](https://github.com/hschneider/neutralino-ext-python) - A low-code Python-Extension for NeutralinoJS. This turns Neutralino into a reactive Python GUI.
 
 ## Tools
 
 ### For Neutralino
 
-- [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Neutralino Build-Automation for macOS, Windows and Linux AppBundles. macOS Apps can be signed and notarized.
+- [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Neutralino Build-Automation for macOS, Windows and Linux. Creates macOS AppBundles which can be signed and notarized. Icons can be applied to Windows and Linux builds.
 
 - [Create Neutralino App](https://github.com/DEVLOPRR/Create-Neutralino-App) - Set up a NeutralinoJS App by running one command
 
