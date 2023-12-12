@@ -114,8 +114,6 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 ### For Neutralino
 
-- [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Neutralino Build-Automation for macOS, Windows and Linux. Creates macOS AppBundles which can be signed and notarized. Icons can be applied to Windows and Linux builds.
-
 - [Create Neutralino App](https://github.com/DEVLOPRR/Create-Neutralino-App) - Set up a NeutralinoJS App by running one command
 
 - [AppImage Bundler](https://github.com/krypt0nn/neutralino-appimage-bundler) - Bundle your Neutralino project in AppImage
@@ -123,6 +121,10 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [Neu AppImage](https://github.com/DEVLOPRR/Neu-AppImage) - Package Neutralino Application Into AppImage Format
 
 - [Neu Appify](https://github.com/neutralinojs/neutralinojs-cli-appify)- Convert any SPA to a lightweight desktop app - Appify plugin for neu-cli
+
+- [neutralino-autoupdate](https://github.com/hschneider/neutralino-autoupdate) - Enhanced Auto-Updater.
+
+- [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Build-Automation for macOS, Windows and Linux. Creates macOS AppBundles which can be signed and notarized. Icons can be applied to Windows and Linux builds.
 
 ## VS Code Extensions
 
