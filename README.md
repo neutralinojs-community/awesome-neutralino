@@ -32,7 +32,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [SeasonFall](https://github.com/Starlight-Skull/Seasonfall) - Simple JavaScript game using data from the OpenWeatherMap API.
 
-- [NeuTodo](https://github.com/ModuleArt/neu-todo) - Simple cross-platform todo app, built on top of Typescript, Vue, Vuetify and Neutralinojs 
+- [NeuTodo](https://github.com/ModuleArt/neu-todo) - Simple cross-platform todo app, built on top of Typescript, Vue, Vuetify and Neutralinojs
 
 - [Cloudflare Warp](https://github.com/krypt0nn/warp-gui) - Unofficial Cloudflare WARP GUI client for Linux written on Neutralino
 
@@ -53,6 +53,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [LitePy](https://github.com/codezri/litepy) - World's simplest Python editor built with Neutralinojs
 
 - [SimpleTime](https://github.com/navidmafi/SimpleTime) - A cross-platform timer and stopwatch app with modern design in mind
+
+- [E.R.A.K](https://codeberg.org/Karter_Kein/E.R.A.K) - A program for creating your own encyclopedia of relative and absolute knowledge.
 
 ## Articles
 
