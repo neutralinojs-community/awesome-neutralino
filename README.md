@@ -112,6 +112,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-ext-python](https://github.com/hschneider/neutralino-ext-python) - A low-code Python-Extension for NeutralinoJS. This turns Neutralino into a reactive Python GUI.
 
+- [neutralino-ext-rust](https://github.com/hschneider/neutralino-ext-rust) -  A low-code Rust-Extension for NeutralinoJS. Use highspeed solutions in Rust, right in your Neutralino app.
+
 ## Tools
 
 ### For Neutralino
