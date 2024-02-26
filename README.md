@@ -132,6 +132,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Build-Automation for macOS, Windows and Linux. Creates macOS AppBundles which can be signed and notarized. Icons can be applied to Windows and Linux builds.
 
+- **[neutralino-curl](https://github.com/hschneider/neutralino-curl)** - A CURL wrapper for Neutralino. Fast HTTP- and FTP-uploads and downloads without CORS, right from your Neutralino frontend.
+
 ## VS Code Extensions
 
 - [NeutralinoJs Snippets](https://marketplace.visualstudio.com/items?itemName=DEVLOPRR.neutralinojs-snippets)
