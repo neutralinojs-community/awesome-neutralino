@@ -110,7 +110,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-autoupdate](https://github.com/hschneider/neutralino-autoupdate) - Enhanced Auto-Updater.
 
-- **[neutralino-curl](https://github.com/hschneider/neutralino-curl)** - A CURL wrapper for Neutralino. Fast HTTP- and FTP-uploads and downloads without CORS, right from your Neutralino frontend.
+- [neutralino-curl](https://github.com/hschneider/neutralino-curl) - A CURL wrapper for Neutralino. Fast HTTP- and FTP-uploads and downloads without CORS, right from your Neutralino frontend.
 
 - [neutralino-ext-bun](https://github.com/hschneider/neutralino-ext-bun) - A Bun-Extension. Bun is a blazingly fast and almost completely NodeJS-compatible JS Runtime. Easy to embed into your Neutralino App.
 
