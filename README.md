@@ -104,7 +104,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-custom-titlebar](https://github.com/DEVLOPRR/NeutralinoJs-Custom-Titlebar) - NeutralinoJS Boilerplate With Custom TitleBar
 
-- [vite-neutralinojs-template](https://github.com/yooneskh/vite-neutralinojs-template) - Starter template for Neutralino.js with Vite.js and Vue.js
+- [vite-vue-neutralino](https://github.com/slluxx/vuetralino) - Starter template for Neutralinojs with Vite and Vue3
 
 ## Extensions
 
