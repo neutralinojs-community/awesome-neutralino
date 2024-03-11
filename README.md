@@ -108,7 +108,13 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 ## Extensions
 
+- [neutralino-autoupdate](https://github.com/hschneider/neutralino-autoupdate) - Enhanced Auto-Updater.
+
+- [neutralino-curl](https://github.com/hschneider/neutralino-curl) - A CURL wrapper for Neutralino. Fast HTTP- and FTP-uploads and downloads without CORS, right from your Neutralino frontend.
+
 - [neutralino-ext-bun](https://github.com/hschneider/neutralino-ext-bun) - A Bun-Extension. Bun is a blazingly fast and almost completely NodeJS-compatible JS Runtime. Easy to embed into your Neutralino App.
+
+- [neutralino-ext-go](https://github.com/hschneider/neutralino-ext-go) - A Go-Extension. Go-Lang is similar to Rust, with strenghts in speed and parallel tasks. Easy to embed into your Neutralino App.
 
 - [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS Exentsion for NeutralinoJS. Node can be emebedded with all dependencies right into your Nutralino App.
 
@@ -121,15 +127,9 @@ Neutralinojs is a lightweight and portable desktop application development frame
 ### For Neutralino
 
 - [Create Neutralino App](https://github.com/DEVLOPRR/Create-Neutralino-App) - Set up a NeutralinoJS App by running one command
-
 - [AppImage Bundler](https://github.com/krypt0nn/neutralino-appimage-bundler) - Bundle your Neutralino project in AppImage
-
 - [Neu AppImage](https://github.com/DEVLOPRR/Neu-AppImage) - Package Neutralino Application Into AppImage Format
-
 - [Neu Appify](https://github.com/neutralinojs/neutralinojs-cli-appify)- Convert any SPA to a lightweight desktop app - Appify plugin for neu-cli
-
-- [neutralino-autoupdate](https://github.com/hschneider/neutralino-autoupdate) - Enhanced Auto-Updater.
-
 - [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Build-Automation for macOS, Windows and Linux. Creates macOS AppBundles which can be signed and notarized. Icons can be applied to Windows and Linux builds.
 
 ## VS Code Extensions
