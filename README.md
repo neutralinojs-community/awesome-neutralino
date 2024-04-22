@@ -106,6 +106,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [vite-vue-neutralino](https://github.com/slluxx/vuetralino) - Starter template for Neutralinojs with Vite and Vue3
 
+- [neutralino-solid-vite](https://github.com/bartosz-dude/neutralino-solid-vite) - Starter template for Neutralinojs with Solid + Vite and configured native API
+
 ## Extensions
 
 - [neutralino-autoupdate](https://github.com/hschneider/neutralino-autoupdate) - Enhanced Auto-Updater.
