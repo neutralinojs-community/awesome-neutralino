@@ -116,7 +116,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-ext-go](https://github.com/hschneider/neutralino-ext-go) - A Go-Extension. Go-Lang is similar to Rust, with strenghts in speed and parallel tasks. Easy to embed into your Neutralino App.
 
-- [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS Exentsion for NeutralinoJS. Node can be emebedded with all dependencies right into your Nutralino App.
+- [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS Exentsion for NeutralinoJS. Node can be emebedded with all dependencies right into your Neutralino App.
 
 - [neutralino-ext-python](https://github.com/hschneider/neutralino-ext-python) - A low-code Python-Extension for NeutralinoJS. This turns Neutralino into a reactive Python GUI.
 
