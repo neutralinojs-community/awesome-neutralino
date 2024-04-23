@@ -100,7 +100,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neu-react-ts-vite-template](https://github.com/JustPilz/neu-react-ts-vite-template) - Neutralino template with ReactJS, TypeScript and Vite
 
-- [svelte-neutralino](https://github.com/DEVLOPRR/svelte-neutralino) - Neutralino Boilerplate With Svelte As Frontend Framework
+- [neutralino-svelte](https://github.com/OrigamingWasTaken/neutralino-svelte) - Neutralino Boilerplate With Svelte As Frontend Framework
 
 - [neutralino-custom-titlebar](https://github.com/DEVLOPRR/NeutralinoJs-Custom-Titlebar) - NeutralinoJS Boilerplate With Custom TitleBar
 
