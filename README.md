@@ -68,6 +68,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [Neutralinojs 2022 Roadmap](https://codezri.org/blog/neutralinojs-2022-roadmap)
 
+- [Guide: Neutralinojs with Angular](https://medium.com/@ratatoeskr/angular-16-and-neutralinojs-9-7-0-f2aa9429bb2)
+
 ## Community
 
 - [Slack](https://join.slack.com/t/neutralinojs/shared_invite/zt-b7mbivj5-pKpO6U5drmeT68vKD_pc6w)
