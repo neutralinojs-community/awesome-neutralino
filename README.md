@@ -94,6 +94,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-blazor](https://github.com/hschneider/neutralino-blazor) - Run C# Blazor desktop apps with Neutralino.
 
+- [neutralino-flutter](https://github.com/hschneider/neutralino-flutter) - Create WASM-based Flutter apps with Neutralino.
+
 - [neutralinojs-minimal](https://github.com/neutralinojs/neutralinojs-minimal) - The simplest template for a Neutralinojs app
 
 - [react-neutralino](https://github.com/DEVLOPRR/react-neutralino) - A NeutralinoJS Boilerplate With React Frontend Library
