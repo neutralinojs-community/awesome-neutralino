@@ -131,6 +131,8 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 - [neutralino-ext-rust](https://github.com/hschneider/neutralino-ext-rust) -  A low-code Rust-Extension for NeutralinoJS. Use highspeed solutions in Rust, right in your Neutralino app.
 
+- [neutralino-ext-dotnet](https://github.com/lgonlop928/neutralino-ext-dotnet) - A .NET Extension for NeutralinoJS. This turns Neutralino into a reactive .NET GUI.
+
 ## Tools
 
 ### For Neutralino
