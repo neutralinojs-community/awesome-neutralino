@@ -4,7 +4,7 @@
 
 > Useful resources for creating apps with [Neutralinojs](https://neutralino.js.org)
 
-Neutralinojs is a lightweight and portable desktop application development framework. It lets you develop lightweight cross-platform desktop applications using JavaScript, HTML and CSS.
+Neutralinojs is a lightweight and portable desktop application development framework. It lets you develop lightweight cross-platform desktop applications using JavaScript, HTML, and CSS.
 
 <br>
 
@@ -22,7 +22,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 ## Apps
 - [SeasonFall](https://github.com/Starlight-Skull/Seasonfall) - Simple JavaScript game using data from the OpenWeatherMap API.
-- [NeuTodo](https://github.com/ModuleArt/neu-todo) - Simple cross-platform todo app, built on top of Typescript, Vue, Vuetify and Neutralinojs
+- [NeuTodo](https://github.com/ModuleArt/neu-todo) - Simple cross-platform todo app, built on top of Typescript, Vue, Vuetify, and Neutralinojs
 - [Cloudflare Warp](https://github.com/krypt0nn/warp-gui) - Unofficial Cloudflare WARP GUI client for Linux written on Neutralino
 - [Myoro Editor](https://github.com/antonkoetzler/MyoroEditor) - A Simple text editor
 - [Translate Tool](https://github.com/Alger23/neutralinojs-translate-tool) - A simple translate tool to translate text
@@ -66,7 +66,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [neutralinojs-minimal](https://github.com/neutralinojs/neutralinojs-minimal) - The simplest template for a Neutralinojs app
 - [react-neutralino](https://github.com/DEVLOPRR/react-neutralino) - A NeutralinoJS Boilerplate With React Frontend Library
 - [vite-react-neutralino](https://github.com/DEVLOPRR/vite-react-neutralino) - Neutralino Boilerplate With React As Frontend Framework and Vite As Bundler
-- [neu-react-ts-vite-template](https://github.com/JustPilz/neu-react-ts-vite-template) - Neutralino template with ReactJS, TypeScript and Vite
+- [neu-react-ts-vite-template](https://github.com/JustPilz/neu-react-ts-vite-template) - Neutralino template with ReactJS, TypeScript, and Vite
 - [neutralino-svelte](https://github.com/OrigamingWasTaken/neutralino-svelte) - Neutralino Boilerplate With Svelte As Frontend Framework
 - [neutralino-custom-titlebar](https://github.com/DEVLOPRR/NeutralinoJs-Custom-Titlebar) - NeutralinoJS Boilerplate With Custom TitleBar
 - [vite-vue-neutralino](https://github.com/slluxx/vuetralino) - Starter template for Neutralinojs with Vite and Vue3
@@ -76,11 +76,10 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [neutralino-autoupdate](https://github.com/hschneider/neutralino-autoupdate) - Enhanced Auto-Updater.
 - [neutralino-curl](https://github.com/hschneider/neutralino-curl) - A CURL wrapper for Neutralino. Fast HTTP- and FTP-uploads and downloads without CORS, right from your Neutralino frontend.
 - [neutralino-ext-bun](https://github.com/hschneider/neutralino-ext-bun) - A Bun-Extension. Bun is a blazingly fast and almost completely NodeJS-compatible JS Runtime. Easy to embed into your Neutralino App.
-- [neutralino-ext-go](https://github.com/hschneider/neutralino-ext-go) - A Go-Extension. Go-Lang is similar to Rust, with strenghts in speed and parallel tasks. Easy to embed into your Neutralino App.
-- [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS Exentsion for NeutralinoJS. Node can be emebedded with all dependencies right into your Neutralino App.
+- [neutralino-ext-go](https://github.com/hschneider/neutralino-ext-go) - A Go-Extension. Go-Lang is similar to Rust, with strengths in speed and parallel tasks. Easy to embed into your Neutralino App.
+- [neutralino-ext-node](https://github.com/hschneider/neutralino-ext-node) - A NodeJS extension for NeutralinoJS. Node can be embedded with all dependencies right into your Neutralino App.
 - [neutralino-ext-python](https://github.com/hschneider/neutralino-ext-python) - A low-code Python-Extension for NeutralinoJS. This turns Neutralino into a reactive Python GUI.
-- [neutralino-ext-rust](https://github.com/hschneider/neutralino-ext-rust) -  A low-code Rust-Extension for NeutralinoJS. Use highspeed solutions in Rust, right in your Neutralino app.
-
+- [neutralino-ext-rust](https://github.com/hschneider/neutralino-ext-rust) -  A low-code Rust-Extension for NeutralinoJS. Use high-speed solutions in Rust, right in your Neutralino app.
 - [neutralino-ext-dotnet](https://github.com/lgonlop928/neutralino-ext-dotnet) - A .NET Extension for NeutralinoJS. This turns Neutralino into a reactive .NET GUI.
 
 ## Tools
@@ -90,7 +89,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [AppImage Bundler](https://github.com/krypt0nn/neutralino-appimage-bundler) - Bundle your Neutralino project in AppImage
 - [Neu AppImage](https://github.com/DEVLOPRR/Neu-AppImage) - Package Neutralino Application Into AppImage Format
 - [Neu Appify](https://github.com/neutralinojs/neutralinojs-cli-appify)- Convert any SPA to a lightweight desktop app - Appify plugin for neu-cli
-- [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Build-Automation for macOS, Windows and Linux. Creates macOS AppBundles which can be signed and notarized. Icons can be applied to Windows and Linux builds.
+- [neutralino-build-scripts](https://github.com/hschneider/neutralino-build-scripts) - Build-Automation for macOS, Windows, and Linux. Creates macOS App Bundles that can be signed and notarized. Icons can be applied to Windows and Linux builds.
 
 ## VS Code Extensions
 
@@ -98,12 +97,12 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 ## Videos
 
-- [NeutralinoJs Framework Source Code Explaination](https://youtu.be/QGZywYDsSyg)
-- [NeutralinoJs Client Lib Source Code Explaination](https://youtu.be/V-RD6ia5YjY)
-- [NeutralinoJs CLI Source Code Explaination](https://youtu.be/XUj20aJDJiI)
+- [NeutralinoJs Framework Source Code Explanation](https://youtu.be/QGZywYDsSyg)
+- [NeutralinoJs Client Lib Source Code Explanation](https://youtu.be/V-RD6ia5YjY)
+- [NeutralinoJs CLI Source Code Explanation](https://youtu.be/XUj20aJDJiI)
 - [Neutralino Tutorials (YouTube playlist)](https://www.youtube.com/playlist?list=PLvTbqpiPhQRb2xNQlwMs0uVV0IN8N-pKj)
 - [ElectronJs is Obsolete](https://youtu.be/2ObrADI1eFk)
-- [Neutralino JS Alternative To Electron Built Cross Platform Apps for Windows Mac and Linux](https://www.youtube.com/watch?v=afi-69QPi8M)
+- [Neutralino JS Alternative To Electron Built Cross Platform Apps for Windows, Mac, and Linux](https://www.youtube.com/watch?v=afi-69QPi8M)
 
 ## Contribute
 
