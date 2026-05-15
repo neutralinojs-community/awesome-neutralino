@@ -103,6 +103,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [Neutralino Tutorials (YouTube playlist)](https://www.youtube.com/playlist?list=PLvTbqpiPhQRb2xNQlwMs0uVV0IN8N-pKj)
 - [ElectronJs is Obsolete](https://youtu.be/2ObrADI1eFk)
 - [Neutralino JS Alternative To Electron Built Cross Platform Apps for Windows, Mac, and Linux](https://www.youtube.com/watch?v=afi-69QPi8M)
+- [Neutralino JS Core API Explanation](https://www.youtube.com/watch?v=G1JgCMHdoxE&list=PLllbgW9zGGaYWuXDEzztoZH8xh6P4k5v5)
 
 ## Contribute
 
